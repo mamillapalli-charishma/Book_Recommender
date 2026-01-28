@@ -65,6 +65,9 @@ A Python-based book recommendation system that suggests books based on semantic 
 - Get a gallery of recommended books.
 
 ---
+git add README.md
+git commit -m "Add project README"
+git push origin main --force
 
 ## Notes
 
